@@ -1,7 +1,7 @@
 const request = require("supertest")
 const app = require("../app")
 const Product = require("../models/Product")
-const Productimg = require("../models/ProductImg")
+const Productimg = require("../models/Productimg")
 require("../models")
 
 let token 
