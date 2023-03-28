@@ -1,6 +1,6 @@
 const catchError = require('../utils/catchError');
 const Product = require('../models/Product');
-const Productimg = require('../models/ProductImg');
+const Productimg = require('../models/Productimg');
 const Category = require('../models/Category');
 const { Op } = require('sequelize');
 
